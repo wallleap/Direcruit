@@ -14,3 +14,7 @@ export const reqUpdateUser = (user) => ajax('/update', user, 'POST')
 export const reqUser = () => ajax('/user')
 // 获取用户列表
 export const reqUserList = (usertype) => ajax('/userlist', {usertype}) // 默认GET，可不传第三个参数
+// 获取当前用户的聊天消息列表
+export const reqChatMsgList = () => ajax('/msglist')
+// 修改指定消息为已读
+export const reqReadMsg= (from) => ajax('/readmsg', {from}, 'POST')

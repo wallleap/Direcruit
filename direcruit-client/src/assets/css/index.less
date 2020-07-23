@@ -14,4 +14,24 @@
   bottom: 0;
   width: 100%;
   height: inherit;
+  z-index: 9999;
 }
+/*消息文本居右*/
+#chat-page .chat-me{
+  position: relative;
+  .am-list-extra{
+    flex-basis: auto; /*宽度包裹内容*/
+  }
+  .am-list-thumb img{
+    position: absolute;
+    right: 15px;
+    top: 0;
+    bottom: 0;
+    margin: auto 0;
+    z-index: 999;
+  }
+  .am-list-content {
+    padding-right: 36px;
+    text-align: right;
+  }
+} 

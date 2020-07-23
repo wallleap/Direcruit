@@ -5,7 +5,7 @@ import React, { Component } from 'react'
 import {connect} from 'react-redux'
 import {Result, List, WhiteSpace, Button, Modal} from 'antd-mobile'
 import Cookies from 'js-cookie'
-import {resetUser, updateUser} from '../../redux/actions'
+import {resetUser} from '../../redux/actions'
 import {getRedirectTo} from '../../utils'
 import {withRouter} from 'react-router-dom'
 
@@ -38,7 +38,7 @@ class Personal extends Component {
   }
 
   render() {
-    const {username, usertype, avatar, company, info, post, salary} = this.props.user
+    const {username, avatar, company, info, post, salary} = this.props.user  // {username, usertype, avatar, company, info, post, salary}
     return (
       <div style={{marginTop: 50}}>
         <Result 
