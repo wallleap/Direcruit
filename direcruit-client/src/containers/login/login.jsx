@@ -50,7 +50,7 @@ class Login extends Component {
     }
     return (
       <div>
-        <NavBar>某&nbsp;某&nbsp;直&nbsp;聘</NavBar>
+        <NavBar>我&nbsp;哩&nbsp;直&nbsp;聘</NavBar>
         <Logo />
         <WingBlank>
           <List>

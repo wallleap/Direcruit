@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51966857-7992-4ee7-b4ab-0967bbf1e518" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../direcruit-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../direcruit-client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../direcruit-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../direcruit-client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../direcruit-client/src/containers/main/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../direcruit-client/src/containers/main/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../direcruit-client/src/containers/personal/personal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../direcruit-client/src/containers/personal/personal.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../direcruit-client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../direcruit-client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/models.js" beforeDir="false" afterPath="$PROJECT_DIR$/db/models.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../过程.md" beforeDir="false" afterPath="$PROJECT_DIR$/../过程.md" afterDir="false" />
-    </list>
+    <list default="true" id="51966857-7992-4ee7-b4ab-0967bbf1e518" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +65,7 @@
       <workItem from="1594948953897" duration="13959000" />
       <workItem from="1595059015737" duration="6943000" />
       <workItem from="1595317615500" duration="5275000" />
+      <workItem from="1596520568504" duration="181000" />
     </task>
     <servers />
   </component>
